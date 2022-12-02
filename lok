@@ -33,14 +33,14 @@ library.theme = {
     accentcolor2 = Color3.fromRGB(16, 31, 78),
     outlinecolor = Color3.fromRGB(26, 26, 26),
     outlinecolor2 = Color3.fromRGB(26, 26, 26),
-    sectorcolor = Color3.fromRGB(29, 29, 29),
+    sectorcolor = Color3.fromRGB(24, 24, 24),
     toptextcolor = Color3.fromRGB(255, 255, 255),
     topheight = 48,
     topcolor = Color3.fromRGB(15, 15, 15),
     topcolor2 = Color3.fromRGB(13, 13, 13),
     buttoncolor = Color3.fromRGB(49, 49, 49),
     buttoncolor2 = Color3.fromRGB(29, 29, 29),
-    itemscolor = Color3.fromRGB(255, 255, 255),
+    itemscolor = Color3.fromRGB(200, 200, 200),
     itemscolor2 = Color3.fromRGB(210, 210, 210)
 }
 
